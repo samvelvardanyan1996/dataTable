@@ -1,0 +1,12 @@
+Products
+
+Url: http://192.168.1.65:3500/products/get?
+Request type: GET
+
+Query Params example:
+limit=5
+&sort=price
+&sortType=asc
+&search=gold
+&priceMin=1
+&priceMax=10
